@@ -18,4 +18,7 @@
   <build>
     <finalName>MyWebApp</finalName>
   </build>
+  <sonar.host.url>http://4.227.205.144:9000/</sonar.host.url>
+  <sonar.login>admin</sonar.login>
+  <sonar.password>admin</sonar.password>
 </project>
