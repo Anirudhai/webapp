@@ -19,6 +19,9 @@
     <finalName>MyWebApp</finalName>
   </build> 
   <properties>
+  <sonar.organization>demo-project5</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   <sonar.host.url>http://4.227.205.144:9000/</sonar.host.url>
   <sonar.login>admin</sonar.login>
   <sonar.password>admin</sonar.password>
